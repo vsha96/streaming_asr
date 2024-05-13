@@ -1,0 +1,11 @@
+librosa
+soundfile
+whisper
+whisper-timestamped
+faster-whisper
+scipy
+numpy
+sounddevice
+soundfile
+mosestokenizer
+wave
